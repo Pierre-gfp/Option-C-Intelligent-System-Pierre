@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environnements
+.venv/
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Sorties / data
+outputs/
+*.png
+*.csv
