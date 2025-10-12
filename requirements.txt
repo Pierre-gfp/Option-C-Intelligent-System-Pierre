@@ -5,3 +5,5 @@ tensorflow
 scikit-learn
 pandas-datareader
 yfinance
+protobuf==5.28.3
+statsmodels
