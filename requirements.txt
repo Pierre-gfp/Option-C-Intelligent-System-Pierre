@@ -6,4 +6,7 @@ scikit-learn
 pandas-datareader
 yfinance
 protobuf==5.28.3
-statsmodels
+statsmodelstransformers==4.45.2
+torch==2.4.1
+transformers==4.45.2
+torch==2.4.1+cpu ; platform_system == 'Windows'
